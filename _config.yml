@@ -27,14 +27,14 @@ projects:
     projects:
     # - repo-name
 
- social_media:
-  # behance: your_username
+social_media:
+  #behance: your_username
   facebook: dmaiabjj
-  # dribbble: your_username
-  # linkedin: your_username
-  # stackoverflow: your_user_id
-  # twitter: your_username
-  # youtube: your_username
+  #dribbble: your_username
+  linkedin: dmaiabjj
+  #stackoverflow: your_user_id
+  twitter: dmaiabjj
+  #youtube: your_username
 
 topics:
   - name: CSS
